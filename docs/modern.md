@@ -27,7 +27,7 @@ The way that combo damage scales is absolutely bonkers. After 7-8~ combo the amo
 
 ### Combo is boring
 
-The most efficient setup for combos is 4w. While it does require a baseline amount of skill, it is extremely linear compared to any other aspect of the game. All there is to 4w is memorizing the residue patterns, and learning how to stack 3-0-3, whereas everything else is much more open and creative, which many times more possibilities, requiring a more complex thought process. 
+The most efficient setup for combos is 4w. While it does require a baseline amount of skill, it is extremely linear compared to any other aspect of the game. All there is to 4w is memorizing the residue patterns, and learning how to stack 3-0-3, whereas everything else is much more open and creative, with many times more possibilities, requiring a more complex thought process. 
 
 ### Downstacking
 
@@ -55,7 +55,7 @@ The most popular modern tetris games are not official games. These games usually
 
 ### Complexity is interesting
 
-With no speed cap, making very basic decision quickly is more beneficial than making fewer better decisions. 
+With no speed cap, making very basic decisions quickly is more beneficial than making fewer better decisions. 
 
 #### What is optimal?
 
@@ -65,7 +65,7 @@ Players should encouraged to make the most optimal and efficient decision, but e
 
 #### Screen-watching and timing as skill expressions 
 
-In faster games true timing is not as prevalent as in slower games. The best players in faster games use timing to some extend, but the amount of skill expression is much less compared to games like PPT. 
+In faster games true timing is not as prevalent as in slower games. The best players in faster games use timing to some extent, but the amount of skill expression is much less compared to games like PPT. 
 
 In faster games timing is not tangible. 
 
